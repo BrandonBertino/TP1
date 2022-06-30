@@ -1,1 +1,1 @@
-# TP1
+# Actividad Grupal de Gestión de Proyecto GitHub y Scrum
