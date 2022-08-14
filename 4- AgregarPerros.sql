@@ -1,0 +1,4 @@
+INSERT INTO perro VALUES(13,  "Puppy",  '2012-12-12' , 'M', 28957346);
+INSERT INTO perro VALUES(14,  "Fido",  '2012-12-12' , 'M', 23546987);
+INSERT INTO perro VALUES(15, "Shuman", '2017-03-11', 'M', 28957346);
+INSERT INTO perro VALUES(16, "Frida", '2019-05-21', 'H', 28957346);
